@@ -1,0 +1,29 @@
+{
+    "name": "Web Perdana SEO",
+    "short_name": "WebPerdanaSEO",
+    "description": "Jasa pembuatan website SEO friendly dan aplikasi mobile profesional",
+    "icons": [
+      {
+        "src": "/favicon-16x16.jpg",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "/favicon-32x32.jpg",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "/apple-touch-icon.jpg",
+        "sizes": "180x180",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#1e40af",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "/",
+    "scope": "/"
+  }
+  

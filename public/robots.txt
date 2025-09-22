@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://webperdanaseo.id/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /_next/
+Disallow: /api/
+
+# Allow important pages
+Allow: /
+Allow: /layanan
+Allow: /portofolio
+Allow: /tentang-kami
+Allow: /kontak
+Allow: /blog
+
+# Crawl delay
+Crawl-delay: 1
