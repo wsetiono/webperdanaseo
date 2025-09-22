@@ -408,7 +408,7 @@ export default function HomePage() {
                     <Star key={i} className="h-4 w-4 fill-yellow-400 text-yellow-400" />
                   ))}
                 </div>
-                <p className="text-muted-foreground leading-relaxed italic">"{testimonial.text}"</p>
+                <p className="text-muted-foreground leading-relaxed italic">{testimonial.text}</p>
                 <div className="space-y-1">
                   <div className="font-semibold">{testimonial.name}</div>
                   <div className="text-sm text-muted-foreground">{testimonial.company}</div>
