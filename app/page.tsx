@@ -10,7 +10,7 @@ import { WhatsAppChat } from "@/components/whatsapp-chat"
 import { StructuredData } from "@/components/structured-data"
 
 export const metadata = {
-  title: "Web Perdana SEO - Jasa Pembuatan Website SEO Friendly & Aplikasi Mobile Profesional",
+  title: "Web Perdana - Jasa Pembuatan Website SEO Friendly & Aplikasi Mobile Profesional",
   description:
     "Jasa pembuatan website SEO friendly, redesign website, dan pengembangan aplikasi mobile profesional. Website menarik, loading cepat, keamanan terjamin, dan sudah dioptimasi SEO untuk meningkatkan ranking Google bisnis Anda. Hubungi kami untuk konsultasi gratis!",
   keywords:
