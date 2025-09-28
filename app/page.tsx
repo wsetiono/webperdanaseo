@@ -10,24 +10,24 @@ import { WhatsAppChat } from "@/components/whatsapp-chat"
 import { StructuredData } from "@/components/structured-data"
 
 export const metadata = {
-  title: "Web Perdana - Jasa Pembuatan Website SEO Friendly & Aplikasi Mobile Profesional",
+  title: "Web Perdana - Jasa Pembuatan Website, Custom Aplikasi Web & Custom Aplikasi Mobile Profesional",
   description:
-    "Jasa pembuatan website SEO friendly, redesign website, dan pengembangan aplikasi mobile profesional. Website menarik, loading cepat, keamanan terjamin, dan sudah dioptimasi SEO untuk meningkatkan ranking Google bisnis Anda. Hubungi kami untuk konsultasi gratis!",
+    "Jasa pembuatan website, redesign website, dan pengembangan aplikasi mobile profesional. Website menarik, loading cepat, keamanan terjamin. Hubungi kami untuk konsultasi gratis!",
   keywords:
-    "jasa pembuatan website seo friendly, jasa pembuatan website yang teroptimasi seo, jasa pembuatan website murah dan profesional, jasa redesign website, pembuatan aplikasi professional dan berkualitas, jasa pembuatan aplikasi murah, web development jakarta, aplikasi mobile indonesia",
+    "jasa pembuatan website, jasa pembuatan website murah dan profesional, jasa redesign website, pembuatan aplikasi professional dan berkualitas, jasa pembuatan aplikasi murah, web development jakarta, aplikasi mobile indonesia",
   openGraph: {
-    title: "Web Perdana SEO - Jasa Pembuatan Website SEO Friendly",
+    title: "Web Perdana - Jasa Pembuatan Website, Custom Aplikasi Web & Custom Aplikasi Mobile Profesional",
     description:
-      "Jasa pembuatan website SEO friendly, redesign website, dan pengembangan aplikasi mobile profesional. Website menarik, loading cepat, keamanan terjamin.",
+      "Jasa pembuatan website, redesign website, dan pengembangan aplikasi mobile profesional. Website menarik, loading cepat, keamanan terjamin. Hubungi kami untuk konsultasi gratis!",
     images: ["/og-image.jpg"],
     type: "website",
     locale: "id_ID",
-    siteName: "Web Perdana SEO",
+    siteName: "Web Perdana",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Web Perdana SEO - Jasa Pembuatan Website SEO Friendly",
-    description: "Jasa pembuatan website SEO friendly, redesign website, dan pengembangan aplikasi mobile profesional.",
+    title: "Web Perdana - Jasa Pembuatan Website, Custom Aplikasi Web & Custom Aplikasi Mobile Profesional",
+    description: "Jasa pembuatan website, redesign website, dan pengembangan aplikasi mobile profesional. Website menarik, loading cepat, keamanan terjamin. Hubungi kami untuk konsultasi gratis!",
     images: ["/og-image.jpg"],
   },
   robots: {
@@ -42,7 +42,7 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: "https://webperdanaseo.id",
+    canonical: "https://webperdana.com",
   },
 }
 
@@ -50,10 +50,10 @@ export default function HomePage() {
   const services = [
     {
       icon: Globe,
-      title: "Pembuatan Website SEO",
+      title: "Pembuatan Website, Custom Aplikasi Web & Custom Aplikasi Mobile Profesional",
       description:
-        "Website profesional yang sudah dioptimasi SEO untuk meningkatkan ranking di Google dan mendatangkan lebih banyak pelanggan potensial",
-      features: ["Responsive Design", "Loading Cepat", "SEO Friendly"],
+        "Jasa pembuatan website, redesign website, dan pengembangan aplikasi mobile profesional. Website menarik, loading cepat, keamanan terjamin. Hubungi kami untuk konsultasi gratis!",
+      features: ["Responsive Design", "Loading Secepat Kilat", "Tampilan"],
     },
     {
       icon: Palette,
@@ -128,9 +128,9 @@ export default function HomePage() {
     },
     {
       icon: Search,
-      title: "SEO Optimized",
+      title: "Responsive Design",
       description:
-        "Website sudah dioptimasi SEO untuk ranking tinggi di mesin pencari dan mendatangkan traffic organik",
+        "Website dibuat sedemikian rupa sehingga responsive pada PC, tablet, smartphone",
     },
     {
       icon: Users,
