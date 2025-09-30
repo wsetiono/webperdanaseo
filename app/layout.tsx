@@ -102,7 +102,7 @@ export default function RootLayout({
         />
       </head>
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} antialiased`}>
-        <GoogleAnalytics GA_MEASUREMENT_ID="GA_MEASUREMENT_ID" />
+        <GoogleAnalytics GA_MEASUREMENT_ID="G-BYWYBHV59S" />
         <PerformanceMonitor />
 
         <main id="main-content">
